@@ -1,0 +1,2 @@
+Another test file.
+別のテスト用ファイル
